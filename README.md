@@ -47,6 +47,15 @@ Los testeos actualmente están dirigidos principalmente a quienes presentan sín
 
 
 
+## Estrategias de agrupamiento de muestras
+
+El método es eficiente cuanto menor sea la probabilidad de encontrar infectados por millón de habitantes, por lo tanto si se clasifica a los testeados, se puede mejorar mucho la eficiencia. Para poder clasificarlos, se podrían utilizar códigos de colores.
+Código verde: para las personas que no presenten síntomas, y utilizar la multiplicación 15 x 15 x 15, por ejemplo.
+Código amarillo: para los que presenten algunos síntomas, utilizando la multiplicación de testeos 5 x 5 x 5.
+Código rojo: para los que presenten muchos síntomas, directamente se podría realizar el testeo individual.
+
+
+
 ## Velocidad de testeo
 
 

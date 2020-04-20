@@ -128,5 +128,5 @@ Efectividad del testeo general:  88,41%
 
 En poco tiempo pude realizar el actual proyecto, que incluye el software, y las pruebas de simulación, como pueden ver cuanto mayor sea el número de infectados menos eficiente será el procedimiento. Por lo tanto quedan muchas cuestiones abiertas, como el procedimiento de mezclado de muestras, la revisión del software de simulación, etc.
 
-Se realizaron algunas correcciones en el código de software, a la fecha 30/04/2020, y cambiaron un poco los resultados de la simulación, obteniendo mayor eficiencia, pero menor eficacia, aunque la eficacia es un tema abierto.
+Se realizaron algunas correcciones en el código de software, a la fecha 20/04/2020, y cambiaron un poco los resultados de la simulación, obteniendo mayor eficiencia, pero menor eficacia, aunque la eficacia es un tema abierto.
 

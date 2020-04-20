@@ -78,52 +78,55 @@ Cantidad de infectados por millón de habitantes: 50
 Estrategia de multiplicación: 10 x 10 x 10
 
 Resultado:
-Númeto de test promedio necesarios: 3,99
-Númeto de personas testeadas: 1000
+Número de test promedio necesarios: 3,39
+Número de personas testeadas: 1000
 Ahorro de test: 996
-Eficiencia:  99,60%
-Promedio de casos positivos no encontrados:  0,000600
-Efectividad del testeo general:  98,86%
+Eficiencia:  99,66%
+Promedio de casos positivos no encontrados:  0,006100
+Efectividad del testeo general:  88,47%
 
 2-
 Cantidad de infectados por millón de habitantes: 100
 Estrategia de multiplicación: 10 x 10 x 10
 
 Resultado:
-Númeto de test promedio necesarios: 5,71
-Númeto de personas testeadas: 1000
-Ahorro de test: 994
-Eficiencia:  99,43%
-Promedio de casos positivos no encontrados:  0,000900
-Efectividad del testeo general:  99,09%
+Número de test promedio necesarios: 4,65
+Número de personas testeadas: 1000
+Ahorro de test: 995
+Eficiencia:  99,54%
+Promedio de casos positivos no encontrados:  0,012900
+Efectividad del testeo general:  87,43%
 
 3- 
 Cantidad de infectados por millón de habitantes: 200
 Estrategia de multiplicación: 10 x 10 x 10
 
 Resultado:
-Númeto de test promedio necesarios: 9,39
-Númeto de personas testeadas: 1000
-Ahorro de test: 990
-Eficiencia:  99,06%
-Promedio de casos positivos no encontrados:  0,002100
-Efectividad del testeo general:  98,97%
+Número de test promedio necesarios: 6,99
+Número de personas testeadas: 1000
+Ahorro de test: 993
+Eficiencia:  99,30%
+Promedio de casos positivos no encontrados:  0,022100
+Efectividad del testeo general:  88,79%
 
 4- 
 Cantidad de infectados por millón de habitantes: 50
 Estrategia de multiplicación: 15 x 15 x 15
 
 Resultado:
-Númeto de test promedio necesarios: 11,59
-Númeto de personas testeadas: 3375
-Ahorro de test: 3363
-Eficiencia:  99,66%
-Promedio de casos positivos no encontrados:  0,002300
-Efectividad del testeo general:  98,65%
+Número de test promedio necesarios: 8,41
+Número de personas testeadas: 3375
+Ahorro de test: 3366
+Eficiencia:  99,75%
+Promedio de casos positivos no encontrados:  0,018900
+Efectividad del testeo general:  88,41%
 
 
 
 ## Mejoras
 
 
-El tiempo que me tomó realizar el actual proyecto, que incluye el software, y las pruebas de simulación, fue de un día, ya que el tiempo es importantísimo, como pueden ver cuanto mayor sea el número de infectados menos eficiente será el procedimiento. Por lo tanto quedan muchas cuestiones abiertas, como el procedimiento de mezclado de muestras, la revisión del software de simulación, etc.
+En poco tiempo pude realizar el actual proyecto, que incluye el software, y las pruebas de simulación, como pueden ver cuanto mayor sea el número de infectados menos eficiente será el procedimiento. Por lo tanto quedan muchas cuestiones abiertas, como el procedimiento de mezclado de muestras, la revisión del software de simulación, etc.
+
+Se realizaron algunas correcciones en el código de software, a la fecha 30/04/2020, y cambiaron un poco los resultados de la simulación, obteniendo mayor eficiencia, pero menor eficacia, aunque la eficacia es un tema abierto.
+

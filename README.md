@@ -60,7 +60,7 @@ Código rojo: para los que presenten muchos síntomas, directamente se podría r
 
 
 Si un testeo estándar  requiere un determinado tiempo para realizarse, un testeo de 500 a 1 puede realizarse en 500 veces el tiempo requerido para un solo testeo, teniendo como base que tanto la recolección de muestra como el mezclado se encuentren convenientemente distribuidos. Es decir, podría ser 500 veces más rápido.
-
+Mejorar el tiempo de testeo es fundamental, ya que el virus es dinámico, y de una semana a la otra puede cambiar mucho el estado de infección de una población, y todos los test que se hicieron en unos días, pierden validez.
 
 
 ## El enemigo invisible

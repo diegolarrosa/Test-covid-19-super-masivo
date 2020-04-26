@@ -56,6 +56,12 @@ Código rojo: para los que presenten muchos síntomas, directamente se podría r
 
 
 
+## Testeos regulares al personal de salud
+
+Los médicos y enfermeras son los más expuestos al virus, por ello sería muy importante detectar los casos asintomáticos regularmente, es un reclamo que ellos mismos vienen realizando, sin embargo el número de personal médico puede ser elevado como para poder testearlos en forma individual y menos pensar en hacerlo regularmente, sin embargo con el método de multiplicación se podría lograrlo, el inconveniente es saber el porcentaje que puede llegar a tener de infectados, para poder elegir la mejor estrategia. Haciendo una estimación de la cantidad de infectados que pueda existir entre el personal médico, la estrategia de 5 x 5 x 5 podría ahorrar diez veces la cantidad de test requerido si se lo hiciera en forma individual, en las siguientes pruebas regulares se podría aumentar el ahorro, ya que se contaría con datos de la cantidad de infectados, o la cantidad de infecciones que se producen regularmente.
+
+
+
 ## Velocidad de testeo
 
 
